@@ -232,7 +232,7 @@ class Api {
 }
 
 const api = new Api({
-    url: "http://localhost:8080",
+    url: "https://api.java-mouse.ru",
 });
 
 export default api;

@@ -32,7 +32,7 @@ class Auth {
 }
 
 const auth = new Auth({
-  url: "http://localhost:8080",
+  url: "https://api.java-mouse.ru",
 
   headers: {
     Accept: "application/json",
